@@ -49,7 +49,7 @@ msgstr "secrétaire du conseil"
 
 #: migrations/0001_initial.py:38
 msgid "member of council"
-msgstr "member du conseil"
+msgstr "membre du conseil"
 
 #: migrations/0001_initial.py:39
 msgid "enterprise"
@@ -65,4 +65,4 @@ msgstr "dépenses"
 
 #: migrations/0001_initial.py:46
 msgid "revenue"
-msgstr "revenu"
+msgstr "recettes"
