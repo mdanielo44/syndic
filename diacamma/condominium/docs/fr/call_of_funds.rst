@@ -9,11 +9,12 @@ Saisissez un à un les détails de l'appel à l'aide du bouton "+ Ajouter" et sp
 
     .. image:: call_of_funds.png
 
-Enfin, pour finaliser l'appel de fonds, cliquez sur "Valider"
+Enfin, pour finaliser l'appel de fonds, cliquez sur "Valider".
 L'ensemble des copropriétaires se voient alors associés à une nouvelle fiche d'appel de fonds.
 En tenant compte de la catégorie de charges de chaque détail, le montant de l'appel est réparti entre copropriétaires.
  
 
-Pour ces appels de fonds, une sauvegarde officielle (d'après le modèle d'impression par défaut) est automatiquement sauvegardée dans le gestionnaire de documents au moment de la validation.
-Lorsque vous voulez imprimer le justificatif, on vous propose alors par défaut de télécharger ce document sauvegardé.
-Vous pouvez régénérer un nouveau PDF, par exemple avec un autre modèle d'impression, par contre celui-ci comportera la mention "duplicata" en filigrane.
+A l'issue de la validation, les appels de fonds officiels sont générés (d'après le modèle d'impression par défaut) et sont  automatiquement sauvegardés dans le gestionnaire de documents.
+
+Lorsque vous imprimez un appel, par défaut c'est le document sauvegardé qui est téléchargé.
+Vous pouvez aussi régénérer un nouveau PDF, par exemple avec un autre modèle d'impression. Par contre celui-ci comportera la mention "duplicata" en filigrane.
